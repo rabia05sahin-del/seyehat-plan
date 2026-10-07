@@ -1,0 +1,6 @@
+{
+  "name": "RotaYolcu - Akıllı Seyahat Planlayıcı",
+  "description": "Yurt içi ve yurt dışı rotalarınız için gün sayısı, bütçe ve tarihe göre kişiselleştirilmiş gezilecek yerler ve günlük gezi planı oluşturan seyahat asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
